@@ -34,3 +34,9 @@ Route::get('/restore', function () {
 Route::get('/setting', function () {
     return view('setting.setting');
 });
+Route::get('/setting/change_info', function () {
+    return view('setting.change_info');
+});
+Route::get('/setting/change_photo', function () {
+    return view('setting.change_photo');
+});

@@ -16,7 +16,7 @@ a{
   color: #0070ca;
 }
 *{
-  
+
   box-sizing:border-box;
 }
 html, body{
@@ -122,4 +122,16 @@ html, body{
   width: 100%;
   color: #FFF;
   font-weight: bold;
+}
+.nav{
+  border-bottom: 1px solid #CCC;
+  text-align: center;
+}
+.nav_item{
+  color: #000;
+  padding:8px 9px 14px;
+  display: inline-block;
+}
+.nav_item__active{
+  border-bottom: 2px solid #000;
 }

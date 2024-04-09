@@ -13,8 +13,8 @@
 <div class="head">
 <div class="head_wrap">
 <div class="head_right">
-<a href="/" class="head_item">Вход</a>
-<a href="/" class="head_item">Регистрация</a>
+<a href="/login" class="head_item">Вход</a>
+<a href="/reg" class="head_item">Регистрация</a>
 </div>
 <div class="head_left">
 <a href="/" class="head_item">SSTU-electronix</a>
