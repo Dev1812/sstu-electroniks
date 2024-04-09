@@ -17,5 +17,8 @@ Route::get('/', function () {
 
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('feed.feed');
+});
+Route::get('/id{profile_id}', function ($profile_id) {
+    return view('profile.profile');
 });

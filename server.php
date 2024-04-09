@@ -1,4 +1,6 @@
 <?php
+define('SITE_NAME', 'SSTU-electronics');
+define('SITE_ROOT', str_replace('\\', '/', $_SERVER['DOCUMENT_ROOT']).'/');
 
 /**
  * Laravel - A PHP Framework For Web Artisans
