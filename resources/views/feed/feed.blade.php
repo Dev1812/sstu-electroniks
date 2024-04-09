@@ -17,7 +17,7 @@ for($i=0;$i<9;$i++) {
 </div>
 <div class="gallery_body">
 <div class="gallery_title">Павел Дуров</div>
-<div class="gallery_counters">
+<div class="gallery_content">
 
 <a href="/id1">ПВА</a>
 	<span>|</span>
