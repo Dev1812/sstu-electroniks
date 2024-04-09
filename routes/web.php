@@ -31,3 +31,6 @@ Route::get('/login', function () {
 Route::get('/restore', function () {
     return view('restore.restore');
 });
+Route::get('/setting', function () {
+    return view('setting.setting');
+});
